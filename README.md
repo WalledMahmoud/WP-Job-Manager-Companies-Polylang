@@ -6,5 +6,8 @@
 
 - Just put the shortcode ['job_manager_companies_polylang'] and you'll be ready to go, have fun !
 
-<img src = 'Organisations.png'>
-<img src = 'Organisations-wales.png'>
+##### Screenshots
+
+English Companies | Wales Companies
+------------ | -------------
+<img src = 'Organisations.png'> | <img src = 'Organisations-wales.png'>
