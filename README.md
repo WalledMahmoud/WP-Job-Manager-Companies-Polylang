@@ -4,7 +4,7 @@
 
 - Sometimes you may have a multilanguage website and want to display your companies which posted jobs on it ! but the problem you want to display the companies according to the job posts language ! so here you go ! 
 
-- Just put the shortcode **['job_manager_companies_polylang']** and you'll be ready to go, have fun !
+- Just put the shortcode **[job_manager_companies_polylang]** and you'll be ready to go, have fun !
 
 ##### Screenshots
 
